@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## fun with big data
 
 You can use the [editor on GitHub](https://github.com/jhashuva/funwithbigdata.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
