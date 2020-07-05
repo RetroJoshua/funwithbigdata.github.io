@@ -1,2 +1,10 @@
 theme: jekyll-theme-dinky
 title: fun with big data
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - bigdata_intro.md
