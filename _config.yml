@@ -8,3 +8,4 @@ relative_links:
   collections: true
 include:
   - bigdata_intro.md
+  -characteristics_of_big_data.md
