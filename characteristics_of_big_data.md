@@ -77,7 +77,7 @@ Variety == Complexity
 
 **Axes of Data Variety**
 
-![](./data6.png)
+![](./data7.png)
 
 
 * Impacts of data variety:
@@ -108,14 +108,13 @@ valence == Connectedness
 * Valence:
     - Fraction of data items that are connected out of total number of possible connections.
 
-![](./data7.png)
+![](./data8.png)
 
 If valence increases over time makes the data connections denser.
 
 Organizational Behavior:
     As density increases, coordination and communication between participants grows and the promotion of shared behaviors and behavioral expectations increases the chance of stakeholders forming coalitions.
 
-![](./data8.png)
 
 ### Value
 
